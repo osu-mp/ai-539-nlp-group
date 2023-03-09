@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MUSS gitignore
+muss-main/*.pyc
+muss-main/*.swp
+muss-main/.venv
+muss-main/*.egg-info
+muss-main/.pytest_cache
+muss-main/.nfs*
+muss-main/experiments
+muss-main/ts-notebooks
+muss-main/teste
+muss-main/models
+muss-main/personal_examples
+muss-main/resources/models
+muss-main/resources/bart_bpe
