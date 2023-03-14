@@ -62,7 +62,6 @@ dependencies:
       - dill==0.3.6
       - easse==0.2.4
       - editdistance==0.6.2
-      - en-core-web-md==2.0.0
       - fairseq==0.10.2
       - faiss-gpu==1.7.2
       - filelock==3.9.0
@@ -97,7 +96,6 @@ dependencies:
       - portalocker==2.7.0
       - preshed==3.0.8
       - protobuf==3.20.0
-      - pt-core-news-md==2.3.0
       - pycparser==2.21
       - pyparsing==3.0.9
       - python-dateutil==2.8.2
