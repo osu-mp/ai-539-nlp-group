@@ -96,7 +96,7 @@ dependencies:
       - plotly==5.13.1
       - portalocker==2.7.0
       - preshed==3.0.8
-      - protobuf==4.22.0
+      - protobuf==3.20.0
       - pt-core-news-md==2.3.0
       - pycparser==2.21
       - pyparsing==3.0.9
